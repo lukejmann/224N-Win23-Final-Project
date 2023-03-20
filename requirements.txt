@@ -1,0 +1,9 @@
+peft
+datasets
+sentencepiece
+transformers
+gradio
+bitsandbytes
+nltk
+accelerate
+evaluate

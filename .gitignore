@@ -1,0 +1,5 @@
+trash/
+classifier/biden_checkpoints/
+models/**
+.vscode/**
+__pycache__/**
